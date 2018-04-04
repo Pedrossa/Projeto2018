@@ -1,0 +1,54 @@
+.nav-link{
+
+	background-color: black;
+	color: #000;
+}
+
+.nav-linkdisabled:hover{
+
+	color: #000;
+}
+
+header{
+
+	border-radius: 10px;
+	background-color: #000;
+	margin: 15px 5px 5px 5px;
+}
+
+img{
+	height: 200px;
+	width: 300px;
+	border-radius: 10px;
+}
+
+.form-inline{
+    width: 70%;
+}
+
+.carousel-img{
+
+	height: 500px;
+	width: 100%;
+}
+
+.hr{
+	border-bottom: 1px solid;
+}
+
+.a{
+	color:#fff;
+}
+
+.a:hover{
+	color: #fff;
+}
+
+hr{
+	border-radius: 1px solid;
+}
+
+body {
+    margin: 10px;
+    background-color: #fff;
+}
